@@ -55,8 +55,8 @@ function arrastrarElemento(element) {
     }
     
 }
-window.onload= function(){
+/*window.onload= function(){
     
-}
+}*/
 
           
